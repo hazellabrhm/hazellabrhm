@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ESX,QBCore**
 
-- 👨‍💻 All of my projects are available at [https://hazellabrhm.github.io/HazellAbraham/](https://hazellabrhm.github.io/HazellAbraham/)
+- 👨‍💻 All of my projects are available at [https://hazellabrhm.github.io/HazellAbraham/](https://hazellabrhm.github.io/hazellabrhm/)
 
 - 📫 How to reach me **hazellpasific@gmail.com**
 
