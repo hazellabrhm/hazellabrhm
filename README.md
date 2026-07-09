@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazell Abraham</h1>
 - 🔭 I’m currently working on **Developer Fivem**
 
-- 🌱 I’m currently learning **ESX,QBCore**
+- 🌱 I’m currently learning **ESX,QBCore,Qbox**
 
 - 👨‍💻 All of my projects are available at [https://hazellabrhm.github.io/HazellAbraham/](https://hazellabrhm.github.io/hazellabrhm/)
 
